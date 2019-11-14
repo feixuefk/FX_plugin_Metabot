@@ -1,0 +1,31 @@
+运行环境：
+AA 11.3.0
+.NET 4.6
+
+版本号：
+1.0.0
+FX_Plugin_Metabot
+
+Win_event类：
+moveTo		鼠标移动		传参：X,Y		X:屏幕X坐标，Y:屏幕Y坐标
+leftDwon		鼠标左键按下	无需参数
+leftUp 		鼠标左键弹起	无需参数
+rightDwon	鼠标右键按下	无需参数
+rightUp		鼠标右键弹起	无需参数
+
+System类：
+ChangeDisp	改变分辩率	传参：X,Y		X:屏幕分辨率X大小，Y:屏幕分辨率Y大小
+getScreenWidth	获取屏幕分辨率宽度	无需参数
+getScreenHeight	获取屏幕分辨率高度	无需参数
+getScreenWH	获取屏幕分辨率宽度/高度	无需参数
+
+Date类：
+getNow		获取当前日期时间 YYYYMMDD HHMMSS	无需参数
+getNowW		获取当前日期时间 YYYY/MM/DD HH:MM:SS	无需参数
+getNowQ		获取当前日期时间 YYYY-MM-DD HH:MM:SS	无需参数
+getTime_dot	获取当前时间 HH:MM:SS	无需参数
+getTime		获取当前时间 HHMMSS	无需参数
+getDate		获取当前日期 YYYYMMDD	无需参数
+getDateW		获取当前日期 YYYY/MM/DD	无需参数
+getDateQ		获取当前日期 YYYY-MM-DD	无需参数
+
