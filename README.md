@@ -8,7 +8,8 @@ AA 11.3.0</br>
 <p>
 <h2>版本更新</h2>
 
-1.1.0</br>
+2019年11月22日：
+v1.1.0</br>
 新增9个方法：</br>
 findWindow_Hwnd</br>
 findWindow_AllHwnd</br>
@@ -21,8 +22,9 @@ top_Window</br>
 notop_Window</br>
 </p>
 
+2019年11月14日：
 <p>首发版本号：</br>
-1.0.0</br>
+v1.0.0</br>
 FX_Plugin_Metabot</p>
 
 <h2>功能</h2>
