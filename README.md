@@ -8,13 +8,11 @@ AA 11.3.0</br>
 <p>
 <h2>版本更新</h2>
 
-2019年12月03日：
-v1.1.1</br>
+<p>2019年12月03日：v1.1.1</br>
 新增：</br>
 newDateofFormat</br>
-
-2019年11月22日：
-<p>v1.1.0</br>
+</p>
+<p>2019年11月22日：v1.1.0</br>
 新增：</br>
 findWindow_Hwnd</br>
 findWindow_AllHwnd</br>
@@ -26,9 +24,7 @@ hide_Window</br>
 top_Window</br>
 notop_Window</br>
 </p>
-
-2019年11月14日：
-<p>首发版本号：</br>
+<p>2019年11月14日：首发版本号：</br>
 v1.0.0</br>
 FX_Plugin_Metabot</p>
 
