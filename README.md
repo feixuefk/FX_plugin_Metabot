@@ -8,9 +8,14 @@ AA 11.3.0</br>
 <p>
 <h2>版本更新</h2>
 
+2019年12月03日：
+v1.1.1</br>
+新增：</br>
+newDateofFormat</br>
+
 2019年11月22日：
-v1.1.0</br>
-新增9个方法：</br>
+<p>v1.1.0</br>
+新增：</br>
 findWindow_Hwnd</br>
 findWindow_AllHwnd</br>
 setWindowTitle</br>
@@ -72,6 +77,7 @@ FX_Plugin_Metabot</p>
 <tr><th>接口</th><th>功能</th><th>传参</th><th>描述</th></tr>
 </thead>
 <tbody>
+<tr><td>newDateofFormat</td><td>以指定方式返回当前时间,如：YYYYMMDD HHMMSS</td><td>s_style：输出格式</td><td>如：yyyy/MM/dd HH:mm:ss等</td></tr>
 <tr><td>getNow</td><td>获取当前日期时间：YYYYMMDD HHMMSS</td><td>无需参数</td><td></td></tr>
 <tr><td>getNowW</td><td>获取当前日期时间：YYYY/MM/DD HH:MM:SS</td><td>无需参数</td><td></td></tr>
 <tr><td>getNowQ</td><td>获取当前日期时间：YYYY-MM-DD HH:MM:SS</td><td>无需参数</td><td></td></tr>
