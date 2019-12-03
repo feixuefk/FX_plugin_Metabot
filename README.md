@@ -24,8 +24,7 @@ hide_Window</br>
 top_Window</br>
 notop_Window</br>
 </p>
-<p>2019年11月14日：首发版本号：</br>
-v1.0.0</br>
+<p>2019年11月14日：首发版本v1.0.0</br>
 FX_Plugin_Metabot</p>
 
 <h2>功能</h2>
