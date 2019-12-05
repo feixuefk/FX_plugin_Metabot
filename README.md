@@ -4,15 +4,27 @@ A Metabot which can help you
 <h2>运行环境</h2>
 <p>
 AA 11.3.0</br>
-.NET 4.6
-Office Excel 2016
+.NET 4.6</br>
+Office Excel 2016</br>
 <p>
+  
 <h2>版本更新</h2>
+<p>2019年12月05日：v1.2.0</br>
+新增：</br>
+Office Excel接口</br>
+OpenXLS</br>
+ReadCell</br>
+WriteCell</br>
+SaveChange</br>
+SelectSheet</br>
+QuitXLS</br>
+</p>
 
 <p>2019年12月03日：v1.1.1</br>
 新增：</br>
 NewDateOfFormat</br>
 </p>
+
 <p>2019年11月22日：v1.1.0</br>
 新增：</br>
 FindWindow_Hwnd</br>
@@ -29,6 +41,7 @@ Notop_Window</br>
 FX_Plugin_Metabot</p>
 
 <h2>功能</h2>
+
 <h4>Win_Event类：</h4>
 <table>
 <thead>
