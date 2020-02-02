@@ -9,6 +9,11 @@ Office Excel 2016</br>
 <p>
   
 <h2>版本更新</h2>
+
+<p>2020年2月2日：v1.2.1</br>
+新增：</br>
+FindIEWindow</br>
+
 <p>2019年12月05日：v1.2.0</br>
 新增：</br>
 Office Excel接口</br>
@@ -62,6 +67,7 @@ FX_Plugin_Metabot</p>
 <tr><td>Hide_Window</td><td>隐藏窗口</td><td>传参：hwnd</td><td>hwnd:窗口句柄</td></tr>
 <tr><td>Top_Window</td><td>窗口置顶</td><td>传参：hwnd</td><td>hwnd:窗口句柄</td></tr>
 <tr><td>Notop_Window</td><td>窗口不置顶</td><td>传参：hwnd</td><td>hwnd:窗口句柄</td></tr>
+<tr><td>FindIEWindow</td><td>获取IE内层窗口</td><td>传参：hwnd</td><td>hwnd:父窗口句柄</td></tr>
 </tbody>
 </table>
 
