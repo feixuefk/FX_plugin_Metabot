@@ -10,7 +10,7 @@ Office Excel 2016</br>
   
 <h2>版本更新</h2>
 
-<p>2020年2月2日：v1.2.1</br>
+<p>2020年02月02日：v1.2.1</br>
 新增：</br>
 FindIEWindow</br>
 
